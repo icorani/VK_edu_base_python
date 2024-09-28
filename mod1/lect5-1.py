@@ -1,0 +1,7 @@
+my_data = list()
+my_data.append(int(input()))
+my_data.append(float(input()))
+my_data.append(int(input()))
+print(f"{my_data[0]:0=+10}")
+print(f"{my_data[1]:#>10.2f}")
+print(f"{my_data[2]:019_b}")

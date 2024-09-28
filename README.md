@@ -1,0 +1,1 @@
+VK education base Python homeworks suggestions Sep, 2024
